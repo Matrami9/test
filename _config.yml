@@ -214,6 +214,8 @@ banner:
 #   theme: "github-light"
 #   follow_site_theme: true
 
+theme: jekyll-theme-yat
+
 # Build settings
 # highlighter: none
 markdown: kramdown
