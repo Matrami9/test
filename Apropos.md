@@ -6,16 +6,28 @@ layout: about
 title: A propos
 # banner: "/assets/images/banners/29112.jpg"
 
-heading: "De la résilience à la passion du code"
 
 heading: "À propos de moi"
-subheading: "De la résilience à la passion du code"
 
+
+
+# banner: 
+#         image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085"
+#         opacity: 0.9
+#         background: "#000"
+        
+banner:
+  image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085"
+  opacity: 0.618
+  background: "#000"
+  
+  
 
 
 --- 
 
 
+# De la résilience à la passion du code
 
 Mon parcours a débuté de manière classique par l'obtention d'un Baccalauréat Général avec les spécialités Mathématiques, Physique-Chimie et Sciences de l'ingénieur. Passionné par le mouvement et le dépassement de soi, mon objectif initial était d'intégrer un cursus sport-étude. Cependant, un accident de parcours a remis en question ce projet et m'a poussé à faire preuve de résilience pour réfléchir à une nouvelle voie professionnelle.
 

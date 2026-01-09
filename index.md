@@ -8,10 +8,10 @@ title: Accueil
 
 heading: "MHADJOU Matrami"    
 subheading: "Étudiant Développeur / Intégrateur Web à Epitech"
+user_avatar: "/assets/images/banners/matrami-mhadjou.jpg"
+
 
 banner:
-  volume: 0.8
-  start_at: 8.5
   image: "/assets/images/banners/29112.jpg"
   opacity: 0.618
   background: "#000"
@@ -23,16 +23,17 @@ banner:
 ---
 <!-- ![Ma Photo]({{ site.baseurl }}/assets/images/banners/matrami-mhadjou.jpg)  -->
 
-![Photo de profil](./assets/images/matrami-mhadjou.jpg)
-
-Basé à Lyon , je suis actuellement en formation à la Web@cadémie par Epitech.Passionné par le numérique et le développement, je construis mon identité de développeur Fullstack à travers des projets concrets et une pédagogie par la pratique.
 
 
 
-### Présentation
+## Présentation
+Bonjour, je m'appelle Matrami MHADJOU et je vous présente mon portfolio .
+Basé à Lyon , je suis actuellement en formation à la Web@cadémie par Epitech. Passionné par le numérique et le développement, je construis mon identité de 
+développeur Fullstack à travers des projets concrets et une pédagogie par la pratique.
+
 J'apprends à concevoir des applications web modernes et performantes.Mon parcours, alliant expériences techniques et administratives, m'a appris l'autonomie, la rigueur et le travail en équipe.
 
-### Objectif professionnel
+## Objectif professionnel
 Devenir un développeur complet, capable de transformer des besoins utilisateurs en solutions techniques robustes, tout en perfectionnant mes compétences en JavaScript, PHP/Symfony et React.
 
 
